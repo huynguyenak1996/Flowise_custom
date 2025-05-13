@@ -169,9 +169,11 @@ export const defaultThemeConfig = {
         },
         footer: {
             textColor: '#303235',
-            text: 'Powered by',
+            // text: 'Powered by',
+            text: '',
             company: 'Flowise',
-            companyLink: 'https://flowiseai.com'
+            // companyLink: 'https://flowiseai.com'
+            companyLink: ''
         }
     }
 }
